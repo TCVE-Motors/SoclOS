@@ -4,29 +4,29 @@ SoclOS represents the ultimate frontier in terms of AI Operating Systems for And
 # Features
 SoclOS is the ultimate software solution to power autonomous machines, it includes various highly-specialized modules and phisical/psycological simulation algorithms. It can be downloaded pre-trained or from scratch.
 
-• High intelligence;
+## • High intelligence;
 
-• Critical thinking;
+## • Critical thinking;
 
-• Advanced face and object recognition;
+## • Advanced face and object recognition;
 
-• Able to 3D-Map in real time its surroundings;
+## • Able to 3D-Map in real time its surroundings;
 
-• Built-in database builder;
+## • Built-in database builder;
 
-• Storage of logs and media records "memories";
+## • Storage of logs and media records "memories";
 
-• Machine learning capabilities;
+## • Machine learning capabilities;
 
-• Phisical simulation algorithm to always take the best guesses on the outside world;
+## • Phisical simulation algorithm to always take the best guesses on the outside world;
 
-• Psycological simulation algorithm that enables understanding and prediction of human psycology and its simulation to offer better integration in society;
+## • Psycological simulation algorithm that enables understanding and prediction of human psycology and its simulation to offer better integration in society;
 
-• Elite hearing and verbal skills;
+## • Elite hearing and verbal skills;
 
-• Advanced motor capabilities, fine control and exercising;
+## • Advanced motor capabilities, fine control and exercising;
 
-• Ability to connect to other machines running SoclOS and share information.
+## • Ability to connect to other machines running SoclOS and share information.
 
 Much more coming!
 
