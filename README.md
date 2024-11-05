@@ -1,6 +1,8 @@
 # SoclOS 
 SoclOS represents the ultimate frontier in terms of AI Operating Systems for Androids. It is a 100% Open-Source advanced deep-learning software developed by Ferrara Davide Giacomo and his TCVE Motors team to contribute to the new industrial revolution.
 
+>  ### **"If we are trying to create an artificial human, we are trying to do God's work. Who better than him can teach us?"**
+
 # Features
 SoclOS is the ultimate software solution to power autonomous machines, it includes various highly-specialized modules and phisical/psycological simulation algorithms. It can be downloaded pre-trained or from scratch.
 
@@ -55,6 +57,6 @@ For further details on licenses and attributions, please see the relevant source
 # Feedback
 We are always open to feedback and talking to the community.
 
-You can contact us via email at: helptcvemotors@gmail.com or through our website at https://tcvemotors.com/contact
+You can contact us via email at: **<helptcvemotors@gmail.com>** or through our website at **<https://tcvemotors.com/contact>**
 
 All rights reserved © 2024 TCVE Motors.
