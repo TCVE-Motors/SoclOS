@@ -32,6 +32,9 @@ SoclOS is the ultimate software solution to power autonomous machines, it includ
 
 Much more coming!
 
+# Safety
+SoclOS is equipped with failsafe mechanisms, innovative tasking methods and no emotion printed in the neural networks, enabling for safe autonomous operation, largely voiding risks of deviancy.
+
 
 
 # Setup
